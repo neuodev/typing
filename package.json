@@ -1,0 +1,23 @@
+{
+  "name": "typing",
+  "version": "1.0.0",
+  "description": "Learn to Type Faster, Easier and Better",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o dist/style/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moalidv/typing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moalidv/typing/issues"
+  },
+  "homepage": "https://github.com/moalidv/typing#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
